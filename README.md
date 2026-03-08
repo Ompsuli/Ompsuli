@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hey there 👋
 
-<!--
-**Ompsuli/Ompsuli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Python/Low-Code Data Engineer interested in building scalable data pipelines and reliable data systems.
 
-Here are some ideas to get you started:
+Currently working on:
+- Local LLM architetures / use-cases
+- DE Optimization test-cases
+- Learning new languages ( ***C*** )
+- Homeserver automations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working with:
+- Data engineering and data pipelines
+- AI agents and machine learning
+- Scripting and automation
+
+## Tools & Tech
+
+- Languages: Python, SQL & C
+- DE: Pandas, Matplotlib, Numpy
+- AI / LLM: PyTorch, smolagents, sk-learn
+- Apache Airflow
+- IBM SPSS
